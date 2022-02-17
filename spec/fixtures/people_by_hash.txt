@@ -1,0 +1,3 @@
+first_name # city # birthdate
+Zebra # Atlanta # 1980-05-29
+Andrew # NYC # 1954-05-04
